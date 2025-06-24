@@ -17,6 +17,8 @@ The project began with the creation of a foundational **design system** to ensur
 
 This phase was essential for maintaining visual consistency across all UI elements.
 
+![Design System](./images/DESIGN_SYSTEM.png)
+
 ---
 
 ### Phase 2 – Wireframe
@@ -43,6 +45,8 @@ Once the structure was clear, reusable **UI components** were built to speed up 
 
 Variants and auto-layout were used extensively to handle different states (e.g., active/inactive, loading).
 
+![Components](./images/COMPONENTS.png)
+
 ---
 
 ### Phase 4 – UI Screens
@@ -55,6 +59,9 @@ With the design system and components in place, high-fidelity UI screens were cr
 - **User Flows**: login, signup, onboarding, and settings
 
 The UI focused on **clarity**, **ease of interaction**, and **modern smart home aesthetics**.
+
+![UI Design Screens](./images/Screens1.png)
+![UI Design Screens](./images/Screens2.png)
 
 ---
 

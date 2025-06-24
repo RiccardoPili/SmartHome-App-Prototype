@@ -3,6 +3,8 @@
 The objective was to design a complete smart home app prototype to explore and understand how to use **Figma** for professional UI design.  
 This included mastering components, prototyping features, and organizing a scalable design system.
 
+[View the project on Figma](https://www.figma.com/design/G5TvNg51GrRBOPfCtaYcnk/Smart-Home-App?node-id=182-2636&t=IY0jikxaqDBylNKw-1)
+
 ---
 
 ### Phase 1 – Design System
